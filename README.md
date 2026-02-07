@@ -53,20 +53,18 @@ END
 ```
 
 #### Output Table
+<img width="1280" height="1093" alt="image" src="https://github.com/user-attachments/assets/3f189a00-0162-4e5a-b5ac-2ea455060dfb" />
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|       1200🔢       01         12
-
-|         1200                    |
 
 #### Manual Calculations
+![WhatsApp Image 2026-02-07 at 8 18 01 AM](https://github.com/user-attachments/assets/fe9b07db-8815-454b-8e92-9f11b82af767)
 
-(Add your calculation here)
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="655" height="447" alt="image" src="https://github.com/user-attachments/assets/120cde55-9af9-4d1d-9f58-80f39f279438" />
+
 
 ## 2. SUBTRACTION
 
@@ -107,18 +105,22 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
+![WhatsApp Image 2026-02-07 at 8 17 02 AM](https://github.com/user-attachments/assets/1255c146-3524-4f09-8407-36358130b859)
+
 
 #### Manual Calculations
+![WhatsApp Image 2026-02-07 at 8 18 12 AM](https://github.com/user-attachments/assets/8fa57593-36c7-41b0-87ba-b2edf75cbe15)
 
-(Add your calculation here)
 
----
+
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+
+<img width="638" height="431" alt="image" src="https://github.com/user-attachments/assets/8e385997-b435-4123-8aaa-4d7cac8d25d6" />
+
+
 
 ## 3. MULTIPLICATION
 
@@ -155,18 +157,23 @@ END
 ```
 
 #### Output Table
+![WhatsApp Image 2026-02-07 at 8 17 31 AM](https://github.com/user-attachments/assets/333c66d1-efc1-43b6-bee8-a4c14ab0c645)
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
+
+
 
 #### Manual Calculations
 
-(Add your calculation here)
+
+<img width="1599" height="606" alt="image" src="https://github.com/user-attachments/assets/635c2480-ec46-416e-8da0-a0d073625fac" />
+
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="642" height="424" alt="image" src="https://github.com/user-attachments/assets/b84231e0-f979-4d7e-bd6e-1f417827eebe" />
+
 
 ## 4. DIVISION
 
@@ -201,16 +208,21 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
+![WhatsApp Image 2026-02-07 at 8 17 47 AM](https://github.com/user-attachments/assets/6d2c5310-a03c-430c-9d82-adfe67c5cc1b)
+
+
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2026-02-07 at 8 18 23 AM](https://github.com/user-attachments/assets/b3baf251-200a-4588-b482-fa7ef07422ac)
+
+
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+
+<img width="638" height="431" alt="image" src="https://github.com/user-attachments/assets/348a598b-5463-4042-8b5e-1bae679eb0cc" />
 
 
 
